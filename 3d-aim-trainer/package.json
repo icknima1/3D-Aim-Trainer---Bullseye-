@@ -1,0 +1,30 @@
+{
+  "name": "3d-aim-trainer",
+  "version": "1.0.0",
+  "description": "A 3D aim trainer built with TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "jest"
+  },
+  "keywords": [
+    "3D",
+    "aim trainer",
+    "TypeScript",
+    "game"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.132.2",
+    "vite": "^2.6.14"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "jest": "^27.4.5",
+    "ts-jest": "^27.0.7",
+    "eslint": "^8.5.0",
+    "eslint-plugin-import": "^2.25.3"
+  }
+}
